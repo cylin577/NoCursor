@@ -1,3 +1,4 @@
+
 # NoCursor
 
 Transformer-based human-like cursor movement synthesizer. Generates
@@ -93,3 +94,7 @@ server/            FastAPI collector + static/ (consent page, task game)
 tests/             pytest suite
 scripts/           (empty)
 ```
+
+## AI Declare
+ Planed and executed by GLM-5.3-Flash 
+I use AI bc im not familiar with Transformers lol 
